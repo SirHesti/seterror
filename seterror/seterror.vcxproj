@@ -150,6 +150,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\src\misc\seterror\seterror.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\src\misc\seterror\VERSION.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
