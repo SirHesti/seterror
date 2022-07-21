@@ -1,2 +1,2 @@
 # seterror
-simple program tzo create an errorlevel
+simple program to create an errorlevel
