@@ -1,2 +1,2 @@
 # seterror
-very simple program to create an errorlevel
+this very simple program create an errorlevel
